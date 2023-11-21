@@ -26,6 +26,6 @@ El CV está en su mayoría coloreado por azul oscuro, que le da elegancia y seri
 
 Demo : 
 
-![ezgif com-gif-to-mp4](https://github.com/lilicasanova/streamlit/assets/125219229/ca653770-92d3-4ad8-81c5-f22b771e1313)
+![ezgif com-gif-to-mp4](https://github.com/lilicasanova/streamlit/assets/125219229/fb90248e-59a8-4f23-8308-06f2036f3b39)
 
 Lili Casanova © 2023
