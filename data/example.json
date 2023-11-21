@@ -1,0 +1,107 @@
+
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "This is <br>Lili's job timeline",
+          "text": "<p>encounters and dis-encounters of my professional experience</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=lE9Gp1poFiE",
+          "caption": "Moving to Bilbo (<a target=\"_blank\" href='https://timeline.knightlab.com/'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"10",
+          "day": "1"
+        },
+        "text": {
+          "headline": "Bilbo <br>changed my life",
+          "text": "<p>Me mude sola a Bilbao tras acabar la carrera en 2018 para buscar trabajo y desenvolverme por mi misma a 850km de mi zona de confort</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.freepik.com/free-vector/business-man-working-hard-stock-financial-trade-market-diagram-vector-illustration-flat-design_1150-39773.jpg?w=740&t=st=1700044126~exp=1700044726~hmac=d7f05b0b08f63267fa251ec7a0030cca4f2bfb646687b278886797e5db9286f9",
+          "caption": "The start of my career (<a target=\"_blank\" href='<a href='https://www.freepik.com/free-vector/business-man-working-hard-stock-financial-trade-market-diagram-vector-illustration-flat-design_13399753.htm#query=illustrations&position=3&from_view=keyword&track=sph&uuid=43a691ed-cb44-4b96-a0c6-00e61b344c9a'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"10",
+          "day":"15"
+        },
+        "text": {
+          "headline": "The start of my <br>career",
+          "text": "Pocos dias despues consegui trabajo en un restaurante y fui ascendiendo vertiginosamente hasta supervisar cinco restaurantes de Bizkaia. Aprendi a gestionar equipos de hasta 150 personas, cumplir con presupuestos de venta y objetivos enfocados a la rentabilidad, organizar turnos de trabajo, cubrir competencias de contratacion y RRLL"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.freepik.com/free-vector/warning-concept-illustration_114360-1551.jpg?w=740&t=st=1700044939~exp=1700045539~hmac=2e6e4b3c7d03284098ab70f435ca9d661faa24ee174a74773a8ca5a57dd9982d",
+          "caption": "Plot twist (<a target=\"_blank\" href='https://www.freepik.com/free-vector/warning-concept-illustration_7182231.htm#query=illustration%20alert&position=17&from_view=search&track=ais&uuid=a569627a-575c-4c2f-9cd2-0b21e229265a'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"6",
+          "day":"1"
+        },
+        "text": {
+          "headline": "Plot twist",
+          "text": "Tras superarme en varios aspectos a mi misma, decido cambiar de rumbo y volver a estudiar. Para ello tenia que volver a un trabajo que me exigiera menos tiempo y dedicacion"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.freepik.com/free-vector/flat-illustration-businesswoman-meditating_23-2148927163.jpg?w=740&t=st=1700044454~exp=1700045054~hmac=78428edcdc2ebae1b407094a65799c64362dafe53218155781b1dfea8c47019b",
+          "caption": "Back to school (<a target=\"_blank\" href='https://www.freepik.com/free-vector/flat-illustration-businesswoman-meditating_13560775.htm#query=illustrations&position=49&from_view=keyword&track=sph&uuid=68862fdc-a16b-4c83-b498-eafd7e3ac921'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"10",
+          "day":"24"
+        },
+        "text": {
+          "headline": "Back to <br>school",
+          "text": "En esta etapa vuelvo a las aulas probando con un curso de UX/UI y especialización en herramientas de diseño de Adobe. Al mismo tiempo consigo empleos de media jornada y contratos cortos de dependienta de diferentes tiendas. Donde aprendo a manejar el estres, grandes clientelas. Cargas y descargas de producto, reposicion y mantenimiento de lineales y por supuesto reforzar mi trabajo en equipo"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.freepik.com/free-vector/active-tourist-hiking-mountain-man-wearing-backpack-enjoying-trekking-looking-snowcapped-peaks-vector-illustration-nature-wilderness-adventure-travel-concept_74855-9800.jpg?w=1060&t=st=1700044382~exp=1700044982~hmac=40d9839246124670534fdae608c1edc25e867755957950b55504f317e96cea75",
+          "caption": "Changing perspective(<a target=\"_blank\" href='https://www.freepik.com/free-vector/active-tourist-hiking-mountain-man-wearing-backpack-enjoying-trekking-looking-snowcapped-peaks-vector-illustration-nature-wilderness-adventure-travel-concept_10606146.htm#query=illustrations&position=6&from_view=keyword&track=sph&uuid=68862fdc-a16b-4c83-b498-eafd7e3ac921'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"02",
+          "day":"13"
+        },
+        "text": {
+          "headline": "Changing <br>perspective",
+          "text": "Durante los ultimos meses empiezo, de forma autodidacta, a interesarme por el mundo del dato. Hasta que comienzo un bootcamp intensivo full-time instruido por la escuela THE BRIDGE. En 420h de practica domino todo tipo de competencias relacionadas con Python, análisis del dato, machine learning y data engineering"
+        }
+      },
+      {
+        "media": {
+          "url": "https://img.freepik.com/free-vector/students-with-laptops-sitting-around-lector-interactive-board-illustration_335657-261.jpg?w=996&t=st=1700044614~exp=1700045214~hmac=460567535475169f72cba9f9ee70475b36a00ed3ed870ba008ae6dd6968e8e6b",
+          "caption": "Teaching (<a target=\"_blank\" href='https://www.freepik.com/free-vector/students-with-laptops-sitting-around-lector-interactive-board-illustration_10780326.htm#fromView=search&term=illustrations+teaching&page=1&position=29&track=ais&regularType=vector'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"08",
+          "day":"28"
+        },
+        "text": {
+          "headline": "Teaching<br>",
+          "text": "Mi trayectoria durante el curso lleva a la escuela a solicitarme asistir al profesor en la docencia de las proximas ediciones del curso en Bilbao. Teaching is the best way to learn"
+        }
+      }
+
+    ]
+}
