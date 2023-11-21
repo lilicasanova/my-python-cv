@@ -1,6 +1,6 @@
 ## Lili Casanova CV - Streamlit
 ---
-En este repositorio encontrarás mi CV en versión accesible y alojado en internet, desplegado a través de la plataforma *Streamlit*. La página consta de cinco posibles pestañas, cada una creada con una función y haciendo uso de los componentes de la librería de [*Streamlit*](https://streamlit.io/components) para Python.
+En este repositorio encontrarás [**mi CV**](https://lilicasanova-cv.streamlit.app/) en versión accesible y alojado en internet, desplegado a través de la plataforma *Streamlit*. La página consta de cinco posibles pestañas, cada una creada con una función y haciendo uso de los componentes de la librería de [*Streamlit*](https://streamlit.io/components) para Python.
 
 #### 1. Home
 Una pantalla de inicio con un mensaje de bienvenida y dos animaciones a cada lado. En el footer un acceso directo a mi *linkedin* y portfolio en *github*.
@@ -24,5 +24,8 @@ Un menú en la barra lateral izquierda que se despliega al acercar el ratón a l
 
 El CV está en su mayoría coloreado por azul oscuro, que le da elegancia y seriedad y por un rosa palo que aporta cierto dinamismo y toque de color alegre. Está principalmente pensado para utilizar en la web.
 
-Demo: 
+Demo : 
 
+![ezgif com-gif-to-mp4](https://github.com/lilicasanova/streamlit/assets/125219229/ca653770-92d3-4ad8-81c5-f22b771e1313)
+
+Lili Casanova © 2023
