@@ -1,0 +1,10 @@
+altair==5.1.2
+numpy==1.24.3
+pandas==2.0.3
+streamlit==1.27.2
+streamlit_bmc==0.0.4
+streamlit_lottie==0.0.5
+streamlit_on_Hover_tabs==1.0.1
+streamlit_option_menu==0.3.6
+streamlit_timeline==0.0.2
+streamlit_toggle_switch==1.0.2
