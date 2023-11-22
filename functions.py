@@ -8,6 +8,7 @@ import altair as alt
 import pandas as pd
 import numpy as np
 import json
+import os
 
 #creo mi menu lateral(on hover)
 
@@ -164,10 +165,23 @@ def about():
             "padding: 10px 20px; "
         )
 
-        st.markdown(
-        f'<a style="{button_style}" href="lili_cv.pdf" download="lili_cv.pdf">Download CV</a>',
-        unsafe_allow_html=True
-    )
+    #creo la ruta de dónde tendrá que conseguirlo
+
+
+        cv_filename = "lili_cv.pdf"
+        cv_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), cv_filename)
+
+
+        with open(cv_path, "rb") as file:
+                st.download_button(
+                    label="Download CV",
+                    data=file,
+                    file_name=cv_filename,
+                    mime="application/pdf",
+                    key="download_cv",
+                    help="Click to download my CV",
+                )
+
         st.write("")
 
         #voy a crear columnas dentro de mi columna céntrica (2) para alinear mi contenido
