@@ -41,6 +41,7 @@ def menu():
 #creo mi función página HOME
 
 def home():
+    hide_anchor_link()
     #divido la página en columnas, para poder centrar mi texto inicio usando sólo la 2
     col1, col2, col3 = st.columns([2, 5, 2])
 
@@ -81,7 +82,7 @@ def home():
 
     #ahora me centro en mi columna izquierda para añadir la imagen a la izquierda
     with col1:
-
+        hide_anchor_link()
         st.markdown("") 
         st.markdown("")
         st.markdown("")
@@ -106,7 +107,7 @@ def home():
 
     #hago lo mismo con mi columna derecha
     with col3:
-
+        hide_anchor_link()
         st.markdown("") 
         st.markdown("")
         st.markdown("")
@@ -359,5 +360,15 @@ def skills():
 
     # binding into model
     st_bmc(data)
+
+
+def hide_anchor_link():
+    st.markdown("""
+            <style>
+            .css-15zrgzn {display: none}
+            .css-eczf16 {display: none}
+            .css-jn99sy {display: none}
+            </style>
+            """, unsafe_allow_html=True)
 
             

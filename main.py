@@ -53,20 +53,27 @@ page = fu.menu()
 
 #muestra home
 if page == "home":
+        fu.hide_anchor_link()
         fu.home()
+
 
 #muestra about
 if page == "about":
         fu.about()
+        fu.hide_anchor_link()
 
 #muestra academics
 if page == "academic":
     fu.academics(use_container_width=True)
+    fu.hide_anchor_link()
 
 #muestra experiencia
 if page == "job experience":
     fu.job_experience()
+    fu.hide_anchor_link()
 
 #muestra skills
 if page == "skills":
+    fu.hide_anchor_link()
     fu.skills()
+    
