@@ -165,7 +165,7 @@ def about():
         )
 
         st.markdown(
-        f'<a style="{button_style}" href="lili_cv.pdf" download="./data/lili_cv.pdf">Download CV</a>',
+        f'<a style="{button_style}" href="lili_cv.pdf" download="lili_cv.pdf">Download CV</a>',
         unsafe_allow_html=True
     )
         st.write("")
