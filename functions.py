@@ -151,7 +151,12 @@ def about():
 
         st.write(
     
-            "Entusiasta y pasional. Soy una persona muy activa, a mis días les faltan horas. Siempre con sed de aprendizaje y nuevos retos. Responsable, organizada, eficiente y resolutiva. Enamorada del mundo del dato, mente analítica y enfocada hacia la toma de decisiones."
+            "Me he demostrado a mí misma una destreza envidiable a cargo de cualquier tipo de tecnología. Aprender algo nuevo y dominarlo me toma un tiempo muy \
+            reducido, lo que ha llevado a mi carrera a encaminarse al unísono con los pasos que sigue la Tierra: hacia el mundo del dato y de la inteligencia artificial.\
+            \
+            Soy una persona muy activa y siempre con sed de aprendizaje y nuevos retos. Considero que sé sacarle provecho a cada minuto y exprimirlo al máximo, \
+            lo que me convierte en una persona altamente eficaz y resolutiva. A mis espaldas llevo un recorrido profesional en el que se ha exigido mucho el sentido de la urgencia, \
+            lo que me ha hecho desenvolverme en entornos muy ágiles, con una necesidad de adaptación al cambio continua."
         )
 
         st.write("")
@@ -169,7 +174,7 @@ def about():
     #creo la ruta de dónde tendrá que conseguirlo
 
 
-        cv_filename = "lili_cv.pdf"
+        cv_filename = "LILI_CASANOVA.pdf"
         cv_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), cv_filename)
 
 
