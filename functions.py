@@ -152,7 +152,7 @@ def about():
         st.write(
     
             "Me he demostrado a mí misma una destreza envidiable a cargo de cualquier tipo de tecnología. Aprender algo nuevo y dominarlo me toma un tiempo muy \
-            reducido, lo que ha llevado a mi carrera a encaminarse al unísono con los pasos que sigue la Tierra: hacia el mundo del dato y de la inteligencia artificial.\
+            reducido, lo que ha llevado a mi carrera a encaminarse al unísono con los pasos que sigue la Tierra: hacia el mundo del dato y de la inteligencia artificial. \n \
             \
             Soy una persona muy activa y siempre con sed de aprendizaje y nuevos retos. Considero que sé sacarle provecho a cada minuto y exprimirlo al máximo, \
             lo que me convierte en una persona altamente eficaz y resolutiva. A mis espaldas llevo un recorrido profesional en el que se ha exigido mucho el sentido de la urgencia, \
